@@ -14,7 +14,6 @@ Identify and describe at least three key milestones in the evolution of software
   - The advent of structured programming in the 1970s 
   - The rise of agile methodologies in the 2000s
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
   - Requirements: Gathering and documenting user needs and system requirements.
   - Design: Creating high-level and detailed designs of the software architecture and user interface.
